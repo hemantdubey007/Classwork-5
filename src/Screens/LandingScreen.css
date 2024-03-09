@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(16, 17, 65);
+    color: white;
+}
+
+#container h1{
+    font-size: 50px;    
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+}
+
+#input-card{
+    font-size: 20px;
+    height: 20vh;
+}
+
+#output{
+    align-items: center;
+    margin-left: 30%;
+    
+}
